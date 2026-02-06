@@ -25,25 +25,25 @@ I am a researcher specializing in **Distributed Systems**, **ML/DL**, **Computer
 ### 📚 Featured Projects
 
 #### 🧠 Artificial Intelligence & NLP
-* [**Political Stance Detection (LSTM)**](https://github.com/armanazadi/political-stance-detection-lstm)
+* [**Political Stance Detection (LSTM)**](https://github.com/arman-azadi/political-stance-detection-lstm)
     * Target-specific stance detection (Trump/Biden) using Bi-LSTM architectures.
-* [**Probabilistic Information Retrieval**](https://github.com/armanazadi/probabilistic-information-retrieval)
+* [**Probabilistic Information Retrieval**](https://github.com/arman-azadi/probabilistic-information-retrieval)
     * Implementation of **BM25** and **Language Models (LM)** with smoothing, evaluated using MAP and Precision-Recall curves.
-* [**Book Recommendation Engine**](https://github.com/armanazadi/collaborative-filtering-book-recommender)
+* [**Book Recommendation Engine**](https://github.com/arman-azadi/collaborative-filtering-book-recommender)
     * Memory-based Collaborative Filtering built from scratch (User-based vs. Item-based).
 
 #### 👁️ Computer Vision
-* [**Face Recognition (Linear Regression)**](https://github.com/armanazadi/face-recognition-linear-regression)
+* [**Face Recognition (Linear Regression)**](https://github.com/arman-azadi/face-recognition-linear-regression)
     * Robust face recognition using Linear Regression Classification (LRC) on the AT&T database.
-* [**Multimodal Image Retrieval**](https://github.com/armanazadi/multimodal-image-retrieval-matlab)
+* [**Multimodal Image Retrieval**](https://github.com/arman-azadi/multimodal-image-retrieval-matlab)
     * Dual-engine search using Visual Content (HSV/Bhattacharyya) and Semantic Metadata.
-* [**Object Recognition (ORB)**](https://github.com/armanazadi/object-recognition-orb-matlab)
+* [**Object Recognition (ORB)**](https://github.com/arman-azadi/object-recognition-orb-matlab)
     * Classical object detection pipeline using Adaptive Thresholding and ORB feature matching.
 
 #### 📐 Math & Systems
-* [**Geometric Median Optimization**](https://github.com/armanazadi/geometric-median-optimization)
+* [**Geometric Median Optimization**](https://github.com/arman-azadi/geometric-median-optimization)
     * Implementation of Weiszfeld's Algorithm for robust L1-norm spatial estimation.
-* [**Open Queue Network Simulation**](https://github.com/armanazadi/open-queue-network-simulation)
+* [**Open Queue Network Simulation**](https://github.com/arman-azadi/open-queue-network-simulation)
     * Discrete Event Simulation (DES) vs. Analytical Jackson Network solver for 4-node systems.
 
 ---
