@@ -1,7 +1,7 @@
 # Hi there, I'm Arman Azadi 👋
 
 ### MSc Candidate in Software Engineering @ IUST
-I am a researcher specializing in **Trustworthy AI**, **Explainable Systems (XAI)**, and **Intelligent Information Retrieval**. My work bridges the gap between theoretical mathematics and practical, high-performance system implementation.
+I am a researcher specializing in **Distributed Systems**, **ML/DL**, **Computer Vision**, **Trustworthy AI**, **Explainable Systems (XAI)**, **Intelligent Information Retrieval**, and **Digital Hardware Design**. My work bridges the gap between theoretical mathematics and practical, high-performance system implementation.
 
 ---
 
@@ -10,6 +10,7 @@ I am a researcher specializing in **Trustworthy AI**, **Explainable Systems (XAI
 * **Information Retrieval:** Building probabilistic search engines and recommendation systems.
 * **System Simulation:** Modeling complex distributed systems using Discrete Event Simulation (DES).
 * **Computer Vision:** From classical feature matching (ORB/LRC) to modern deep learning.
+* **Digital Hardware Design (Accelerator Design):** Implement AI models and algorithms on boards (FPGA)
 
 ---
 
@@ -26,6 +27,8 @@ I am a researcher specializing in **Trustworthy AI**, **Explainable Systems (XAI
 #### 🧠 Artificial Intelligence & NLP
 * [**Political Stance Detection (LSTM)**](https://github.com/armanazadi/political-stance-detection-lstm)
     * Target-specific stance detection (Trump/Biden) using Bi-LSTM architectures.
+* [**Probabilistic Information Retrieval**](https://github.com/armanazadi/probabilistic-information-retrieval)
+    * Implementation of **BM25** and **Language Models (LM)** with smoothing, evaluated using MAP and Precision-Recall curves.
 * [**Book Recommendation Engine**](https://github.com/armanazadi/collaborative-filtering-book-recommender)
     * Memory-based Collaborative Filtering built from scratch (User-based vs. Item-based).
 
