@@ -10,7 +10,7 @@ I am a researcher specializing in **Distributed Systems**, **ML/DL**, **Computer
 * **Information Retrieval:** Building probabilistic search engines and recommendation systems.
 * **System Simulation:** Modeling complex distributed systems using Discrete Event Simulation (DES).
 * **Computer Vision:** From classical feature matching (ORB/LRC) to modern deep learning.
-* **Digital Hardware Design (Accelerator Design):** Implementing AI models and algorithms on boards (FPGA)
+* **Digital Hardware Design (Accelerator Design):** Implementing AI models and algorithms on digital circuit boards (e.g. FPGA).
 
 ---
 
